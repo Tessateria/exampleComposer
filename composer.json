@@ -1,0 +1,11 @@
+{
+    "name": "tessa/oop_2_composer",
+    "description": "lesson",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "App"
+        }
+    }
+}
